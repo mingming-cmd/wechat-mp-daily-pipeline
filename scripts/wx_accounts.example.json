@@ -1,0 +1,4 @@
+{
+  "_comment": "复制为 scripts/wx_accounts.json 并填入你自己的凭据（该文件在 .gitignore 中，不会入库）。",
+  "main": {"appid": "YOUR_APPID", "secret": "YOUR_APPSECRET"}
+}

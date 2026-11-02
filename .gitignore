@@ -1,0 +1,7 @@
+# 凭据与本地状态（绝不入库）
+scripts/wx_accounts.json
+.env
+draft_payload_tmp.json
+newspic_media_id.txt
+__pycache__/
+*.pyc
